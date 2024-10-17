@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Chaud
+Build-Jdk: 17.0.11
+Implementation-Title: contacts_management
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: contacts
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/contacts_management
+Created-By: Maven Integration for Eclipse
+
